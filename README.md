@@ -1,1 +1,1 @@
-# VP
+# Veb Programiranje vezbi
